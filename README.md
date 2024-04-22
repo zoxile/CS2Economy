@@ -15,6 +15,8 @@ Big thanks to all these developers!
 - Gambling games (Roulette and more to come)
 - Shop for models
 - Removing models and agents temporarily
+- Credit rewards in the interval that you select
+- Double rewards for VIP
 
 ## TODO
 - Shop for items (weapons, grenades, configurable things)
@@ -23,6 +25,8 @@ Big thanks to all these developers!
 - LANG folder
 - Make roulette bet amount's configurable
 - Expand the config for everything in the plugin
+- Getting credits through quests
+- Getting credits through kills
 
 ## Configuration
 After launching the plugin for the first time, a config file will be created in counterstrikesharp's config directory, there you will need to enter necessary info about how you would like the plugin to function, database credentials but also the module directory.
